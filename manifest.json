@@ -1,16 +1,23 @@
 {
 	"toolchain-propeller":[
 		{
-			"url":"https://github.com/msquirogac/propeller-gcc/releases/download/v1.9.0-alpha/toolchain-propeller_v1_9_0_alpha-gcc4-linux-x64.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/1.9.0-alpha/toolchain-propeller_v1_9_0_alpha-gcc4-linux-x64.tar.gz",
 			"version":"1.9.0",
-			"system":"linux_aarch64"
+			"system":"linux_x86_64"
 		}
 	],
 	"tool-propeller-loader":[
 		{
-			"url":"https://github.com/msquirogac/propeller-gcc/releases/download/v1.9.0-alpha/tool-propeller-loader_v1_9_0_alpha-gcc4-linux-x64.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/1.9.0-alpha/tool-propeller-loader_v1_9_0_alpha-gcc4-linux-x64.tar.gz",
 			"version":"1.9.0",
-			"system":"linux_aarch64"
+			"system":"linux_x86_64"
+		}
+	],
+	"tool-propeller-extra":[
+		{
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/1.9.0-alpha/tool-propeller-extra_v1_9_0_alpha-gcc4-linux-x64.tar.gz",
+			"version":"1.9.0",
+			"system":"linux_x86_64"
 		}
 	]
 }
