@@ -23,6 +23,13 @@
 				"darwin_x86_64",
 				"darwin_i386"
 			]
+		},
+		{
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r0/propellergcc-v1_0_0-gcc4-linux-x64.tar.gz",
+			"version":"1.0.0",
+			"system":[
+				"linux_x86_64"
+			]
 		}
 	]
 }
