@@ -39,6 +39,14 @@
 				"windows_amd64",
 				"windows_x86"
 			]
+		},
+		{
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r0/propellergcc-v1_0_0-gcc4-macosx.tar.gz",
+			"version":"1.0.0",
+			"system":[
+				"darwin_x86_64",
+				"darwin_i386"
+			]
 		}
 	]
 }
