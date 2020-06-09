@@ -8,7 +8,7 @@
 			]
 		},
 		{
-			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/loader-alpha_v1_9_0-gcc4-macosx.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/loader-alpha_v1_9_0-gcc4-win32.tar.gz",
 			"version":"1.9.0",
 			"system":[
 				"windows",
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/loader-alpha_v1_9_0-gcc4-win32.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/loader-alpha_v1_9_0-gcc4-macosx.tar.gz",
 			"version":"1.9.0",
 			"system":[
 				"darwin_x86_64",
@@ -51,14 +51,14 @@
 			]
 		},
 		{
-			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r1/propellergcc-alpha_v1_9_0-gcc4-linux-x64.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/toolchain-alpha_v1_9_0-gcc4-linux-x64.tar.gz",
 			"version":"1.9.0",
 			"system":[
 				"linux_x86_64"
 			]
 		},
 		{
-			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r1/propellergcc-alpha_v1_9_0-gcc4-macosx.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/toolchain-alpha_v1_9_0-gcc4-win32.tar.gz",
 			"version":"1.9.0",
 			"system":[
 				"windows",
@@ -67,7 +67,7 @@
 			]
 		},
 		{
-			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r0/propellergcc-alpha_v1_9_0-gcc4-win32.tar.gz",
+			"url":"https://github.com/msquirogac/platformio-propeller-package/releases/download/r2/toolchain-alpha_v1_9_0-gcc4-macosx.tar.gz",
 			"version":"1.9.0",
 			"system":[
 				"darwin_x86_64",

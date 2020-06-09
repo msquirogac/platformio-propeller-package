@@ -1,0 +1,6 @@
+bin/gdbstub*
+bin/propeller-load*
+bin/propeller-elf-image-size*
+lib/gdb/
+propeller-load/
+

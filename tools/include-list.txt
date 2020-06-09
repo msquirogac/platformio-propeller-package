@@ -1,0 +1,10 @@
+bin/
+bin/gdbstub*
+bin/propeller-load*
+bin/propeller-elf-image-size*
+lib/
+lib/gdb/
+lib/gdb/gdbinit
+propeller-load/
+propeller-load/*
+
